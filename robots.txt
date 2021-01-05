@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://melonia.github.io/sitemap.xml
