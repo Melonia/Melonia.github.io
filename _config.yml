@@ -1,9 +1,8 @@
 logo: # add logo name
 title: 아이티코어스
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+"아이티코어스는 세워진 지 1년 밖에 안 된 회사이다. 사원은 10명이고 대표이사는 2명이다. its, 신호처리 등의
+사업을 하고 있다. "
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.it-cous.com" # the base hostname & protocol for your site, e.g. http://example.com
