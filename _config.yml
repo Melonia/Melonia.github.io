@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.it-cous.com" # the base hostname & protocol for your site, e.g. http://example.com
+ogtitle: "아이티코어스 홈페이지"
+ogdescription: "아이티코어스는 ITS 관련 사업을 하는 회사이다."
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
